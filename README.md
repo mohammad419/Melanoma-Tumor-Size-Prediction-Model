@@ -26,4 +26,4 @@ Melanoma is the most dangerous type of skin cancer. Globally, in 2012, it newly 
 
 
 ### Data Set Link
-##### https://drive.google.com/drive/u/2/my-drive
+##### https://drive.google.com/drive/u/2/folders/1gekT4PjchP2PpkqcrqEaYkQbxLsQ0Ocg
