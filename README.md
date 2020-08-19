@@ -23,3 +23,7 @@ Melanoma is the most dangerous type of skin cancer. Globally, in 2012, it newly 
 #### malign_penalty: penalty applied due to measurement error in the lab
 #### damage_ratio: the ratio of damage to total spread on the skin
 #### tumor_size: size of melanoma_tumor
+
+
+### Data Set Link
+##### https://drive.google.com/drive/u/2/my-drive
